@@ -71,7 +71,7 @@ A modern full-stack boilerplate that serves as an alternative to the MERN stack,
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/arielfikru/pygorp
 cd pygorp
 
 # Copy environment file
